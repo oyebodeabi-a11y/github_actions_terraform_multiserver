@@ -33,6 +33,14 @@ Project: Using Github actions as a CICD tool to provision multi EC2 instances to
 14. The terrafrom code to destroy the provisioned EC2 instances with the 3 servers are destroyed successfully.
 
 
+<img width="482" height="242" alt="Image" src="https://github.com/user-attachments/assets/fe9cafe3-e714-451a-929a-ed2ee964c61c" />
+
+<img width="602" height="434" alt="Image" src="https://github.com/user-attachments/assets/e6342cab-a413-4a0a-a1cf-3fce14e3113f" />
+
+<img width="739" height="404" alt="Image" src="https://github.com/user-attachments/assets/0e5527ea-958b-4103-8095-1be51b16c0f0" />
+
+
+<img width="667" height="380" alt="Image" src="https://github.com/user-attachments/assets/821dfce7-3405-407b-949a-52278083bbf6" />
 
 
 
